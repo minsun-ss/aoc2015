@@ -1,4 +1,4 @@
-# Advent of Code, 2015 (the 2022 edition)
+# Advent of Code 2015 (the 2022 edition)
 
 Somewhere in the middle of all this I needed an excellent
 excuse to really learn some of the ins and outs of 
