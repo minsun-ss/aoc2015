@@ -1,1 +1,2 @@
-/target
+/build
+/src/data/*.txt
