@@ -10,4 +10,12 @@ interests me), so here I am.
 
 This is obviously going to be very painful as I had 
 only really been halfway through the bible before 
-dropping head first into this. 
+dropping head first into this.
+
+# To run the puzzle output
+
+```
+cargo build
+cargo run --bin <puzzle number>
+```
+
